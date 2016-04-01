@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\luis alvarez\documents\visual studio 2015\projects\starwars\starwars\main.cpp(66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\luis alvarez\documents\visual studio 2015\projects\starwars\starwars\main.cpp(67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\luis alvarez\documents\visual studio 2015\projects\starwars\starwars\main.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luis alvarez\documents\visual studio 2015\projects\starwars\starwars\main.cpp(108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\luis alvarez\documents\visual studio 2015\projects\starwars\starwars\main.cpp(111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luis alvarez\documents\visual studio 2015\projects\starwars\starwars\main.cpp(112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\luis alvarez\documents\visual studio 2015\projects\starwars\starwars\main.cpp(115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luis alvarez\documents\visual studio 2015\projects\starwars\starwars\main.cpp(116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\luis alvarez\documents\visual studio 2015\projects\starwars\starwars\main.cpp(119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\luis alvarez\documents\visual studio 2015\projects\starwars\starwars\main.cpp(120): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  StarWars.vcxproj -> C:\Users\Luis Alvarez\documents\visual studio 2015\Projects\StarWars\Debug\StarWars.exe
+  StarWars.vcxproj -> C:\Users\Luis Alvarez\documents\visual studio 2015\Projects\StarWars\Debug\StarWars.pdb (Partial PDB)
